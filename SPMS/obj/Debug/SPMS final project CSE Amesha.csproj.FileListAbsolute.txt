@@ -1,0 +1,20 @@
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\bin\Debug\SPMS final project CSE Amesha.exe.config
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\bin\Debug\SPMS final project CSE Amesha.exe
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\bin\Debug\SPMS final project CSE Amesha.pdb
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS final project CSE Amesha.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.adminlogin.resources
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.Properties.Resources.resources
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS final project CSE Amesha.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS final project CSE Amesha.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS final project CSE Amesha.exe
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS final project CSE Amesha.pdb
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.userlogin.resources
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.usernewacc.resources
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.homepage.resources
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.adminhomepage.resources
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.userhomepage.resources
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.checkrequeststatus.resources
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.checkshipstatus.resources
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.portrequest.resources
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.updaterequests.resources
+C:\Users\kevin\Desktop\CSE\final project\SPMS final project CSE Amesha\obj\Debug\SPMS_final_project_CSE_Amesha.updateshipstatus.resources
